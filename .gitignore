@@ -1,4 +1,7 @@
+datathon4.csv
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*data*
+*.csv
